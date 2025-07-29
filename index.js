@@ -1,0 +1,1 @@
+// Simuliertes Vite Build: React App Logik wäre hier.
