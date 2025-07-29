@@ -1,4 +1,4 @@
-// App.tsx
+
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
@@ -14,7 +14,6 @@ export default function App() {
   const [copiedIndex, setCopiedIndex] = useState<number | null>(null);
 
   useEffect(() => {
-    // 📦 Simulierte Bestseller (später ersetzbar durch API oder Scraper)
     const mockProducts = [
       {
         title: 'Bluetooth Kopfhörer',
