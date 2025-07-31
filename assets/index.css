@@ -1,1 +1,7 @@
-/* Simuliertes Styling */ body { font-family: sans-serif; }
+
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  text-align: center;
+  background-color: #f9f9f9;
+}
